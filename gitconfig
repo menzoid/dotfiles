@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mennofromheavan@gmail.com
+	name = Ryan Brouwer
